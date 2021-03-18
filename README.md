@@ -1,2 +1,3 @@
 # notebooks
-Notebooks for NLP
+
+A collection of google colab notebooks.
